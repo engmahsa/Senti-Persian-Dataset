@@ -22,7 +22,10 @@ This method ensures that the augmented data maintains semantic consistency with 
 
 The dataset is available in two versions:
 1. **Original Dataset**: Contains the raw, manually annotated comments.
-2. **Augmented Dataset**: Includes both the original comments and synthetic data generated via the GAN-based augmentation technique.
+2. **Augmented Dataset**: Includes both the original comments and synthetic data generated via the GAN-based augmentation technique.To use the dataset, download it from the following link:
+
+[Google Drive - Senti-Persian Dataset](https://drive.google.com/file/d/1HgM84w6SBxbiTXlmKstI_r9CTGXjFN41/view?usp=sharing)
+
 
 You can download the dataset from this repository and use it for training and evaluating sentiment analysis models.
 
