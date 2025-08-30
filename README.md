@@ -24,7 +24,7 @@ The dataset is available in two versions:
 1. **Original Dataset**: Contains the raw, manually annotated comments.
 2. **Augmented Dataset**: Includes both the original comments and synthetic data generated via the GAN-based augmentation technique.To use the dataset, download it from the following link:
 
-[Google Drive - Senti-Persian Dataset](https://drive.google.com/file/d/1HgM84w6SBxbiTXlmKstI_r9CTGXjFN41/view?usp=sharing)
+[Google Drive - Senti-Persian Dataset](https://docs.google.com/spreadsheets/d/1SmriH-ht2ySpEGEQCQbM7m_gJUVa6ezU/edit?usp=sharing&ouid=104457585425777649330&rtpof=true&sd=true)
 
 
 You can download the dataset from this repository and use it for training and evaluating sentiment analysis models.
